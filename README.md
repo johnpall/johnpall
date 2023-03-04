@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnpaul
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL
+- 👀 I’m a Data Analysis
+- 🌱 I’m proficient in Excel. Power Bi, Tableau, SQL, R and Python.
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 You can reach out to me
 
